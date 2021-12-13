@@ -33,6 +33,9 @@
 
 ### Примеры моих работ
 
+[код](https://github.com/Grom013/ROUTER)
+[код](https://github.com/Grom013/hackaton2)
+
 ### Я в соц. сетях
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/mvl013)
