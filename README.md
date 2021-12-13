@@ -33,7 +33,7 @@
 
 ### Примеры моих работ
 
-[Приложение]https://github.com/Grom013/ROUTER)
+[Приложение](https://github.com/Grom013/ROUTER)
 
 ### Я в соц. сетях
 
