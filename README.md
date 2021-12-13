@@ -1,10 +1,17 @@
 [![Header](https://github.com/Grom013/Grom013/blob/main/assets/photo_2021-12-13_21-28-00.jpg)]()
 
-## I'm a beginner frontend
+## Добро пожаловать на мой профиль!
 
-Latest Youtube Videos
+### Меня зовут Мвгомед и с конца 2020 года я занимаюсь frontend-разработкой.
 
-Languages and Tools
+### За этот год освоил огромное количество библиотек/технологий. Также разрабатывал на Angular и Stencil, но в итоге остановился на React и React Native.
+
+### Разработка для меня не просто работа, а в первую очередь любимое дело!
+
+### Креативный, смекалистый, с хорошим чувством юмора :)
+
+### Мои навыки
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
 ![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
 ![React-Native](https://img.shields.io/badge/React_Native-266132?style=for-the-badge&logo=React-Native)
@@ -23,6 +30,8 @@ Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-266132?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
+
+### Примеры моих работ
 
 ### Я в соц. сетях
 
