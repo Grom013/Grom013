@@ -24,4 +24,7 @@ Languages and Tools
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 
-Follow Me
+### Я в соц. сетях
+
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/mvl013)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/m_mukaev77?utm_medium=copy_link)
