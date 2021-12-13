@@ -33,8 +33,7 @@
 
 ### Примеры моих работ
 
-[код](https://github.com/Grom013/ROUTER)
-[код](https://github.com/Grom013/hackaton2)
+[Приложение]https://github.com/Grom013/ROUTER)
 
 ### Я в соц. сетях
 
