@@ -31,7 +31,7 @@
 ### Примеры моих работ
 
 - Приложение fastCompany [код](https://github.com/Grom013/ROUTER) | ReactJs / Redux / FireBase
-- Нативный JS [код](https://github.com/Grom013/JsSimpleCode) |
+- Нативный JavaScript [код](https://github.com/Grom013/JsSimpleCode) |
 
 ### Я в соц. сетях
 
