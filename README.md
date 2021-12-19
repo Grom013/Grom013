@@ -30,7 +30,7 @@
 
 ### Примеры моих работ
 
-- Приложение fastCompany [код](https://github.com/Grom013/ROUTER)
+- Приложение fastCompany [код](https://github.com/Grom013/ROUTER) |
 - Приложение контактов [код](https://github.com/musovvir/app-contacts) |
 - Лента на подобии ленты ВКонтакте [код](https://github.com/musovvir/team-app) | [demo](https://morning-bastion-59815.herokuapp.com)
 - Десктопный чат [код](https://github.com/musovvir/desktop-chat) |
