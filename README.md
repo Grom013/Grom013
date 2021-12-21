@@ -4,11 +4,11 @@
 
 ### My name is Magomed. I have been doing frontend development from the end of 2020 .
 
-### За этот год освоил огромное количество библиотек/технологий. На данный момент разрабатываю на ReactJs
+### I have mastered a huge number of libraries / technologies during this year. Increased skills in ReactJs.
 
-### Разработка для меня не просто работа, а в первую очередь любимое дело!
+### Development for me isn’t just a job, but first of all it’s a favorite part!
 
-### Креативный, смекалистый, с хорошим чувством юмора :)
+### Creative, erudite, with a good sense of humor :)
 
 ### My skills
 
@@ -30,8 +30,8 @@
 
 ### Examples of my work
 
-- Приложение fastCompany [код](https://github.com/Grom013/ROUTER) | ReactJs / Redux / FireBase
-- Нативный JavaScript [код](https://github.com/Grom013/JsSimpleCode) |
+- Application fastCompany [code](https://github.com/Grom013/ROUTER) | ReactJs / Redux / FireBase
+- Native JavaScript [code](https://github.com/Grom013/JsSimpleCode) |
 
 ### Follow me
 
