@@ -1,8 +1,8 @@
 [![Header](https://github.com/Grom013/Grom013/blob/main/assets/photo_2021-12-13_21-28-00.jpg)]()
 
-## Добро пожаловать на мой профиль!
+## Welcome to my profile!
 
-### Меня зовут Мaгомед и с конца 2020 года я занимаюсь frontend-разработкой.
+### My name is Magomed. I have been doing frontend development from the end of 2020 .
 
 ### За этот год освоил огромное количество библиотек/технологий. На данный момент разрабатываю на ReactJs
 
@@ -10,7 +10,7 @@
 
 ### Креативный, смекалистый, с хорошим чувством юмора :)
 
-### Мои навыки
+### My skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
 ![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
@@ -28,12 +28,12 @@
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 ![Eslint](https://img.shields.io/badge/-eslint-266132?style=for-the-badge&logo=esLint&logocolor=E9D54D)
 
-### Примеры моих работ
+### Examples of my work
 
 - Приложение fastCompany [код](https://github.com/Grom013/ROUTER) | ReactJs / Redux / FireBase
 - Нативный JavaScript [код](https://github.com/Grom013/JsSimpleCode) |
 
-### Я в соц. сетях
+### Follow me
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/mvl013)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/m_mukaev77?utm_medium=copy_link)
