@@ -30,7 +30,7 @@
 
 ### Examples of my work
 
-- Application fastCompany [code](https://github.com/Grom013/ROUTER) | ReactJs / Redux / FireBase
+- Application fastCompany [code](https://github.com/Grom013/my-company) | ReactJs / Redux / FireBase
 - Native JavaScript [code](https://github.com/Grom013/JsSimpleCode) |
 
 ### Follow me
