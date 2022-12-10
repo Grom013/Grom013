@@ -27,6 +27,8 @@
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 ![Eslint](https://img.shields.io/badge/-eslint-266132?style=for-the-badge&logo=esLint&logocolor=E9D54D)
+![TypeScript](https://camo.githubusercontent.com/58db00572372d3016d45274a096a318c1f0a27d186db0b5903dcaef409c8dca0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3236363133323f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f636f6c6f723d453944353444)
+
 
 ### Examples of my work
 
