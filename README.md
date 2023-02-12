@@ -12,7 +12,7 @@
 
 ### My skills
 
-![Codewars](https://www.codewars.com/users/\Grom013/badges/large)
+![CodeWars](https://www.codewars.com/users/\Grom013/badges/large)
 [![CodeWars](https://raw.githubusercontent.com/Grom013/Grom013/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-12-11%20%D0%B2%2000.19.05.png)](https://www.codewars.com/users/Grom013)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
