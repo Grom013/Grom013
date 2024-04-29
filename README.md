@@ -13,7 +13,7 @@
 
 ### Примеры моих работ(Тотальное обновление на данный момент)
 
-- Application fastCompany [code](https://github.com/Grom013/my-company) | ReactJs 
+- Application twitter [code]([https://github.com/Grom013/my-company](https://github.com/Grom013/twitter)) | ReactJs 
 
 ### Follow me
 
