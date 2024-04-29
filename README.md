@@ -1,41 +1,19 @@
 [![Header](https://github.com/Grom013/Grom013/blob/main/assets/photo_2021-12-13_21-28-00.jpg)]()
 
-## Welcome to my profile!
+### Приветствую вас на моём профиле GitHub! 
 
-### My name is Magomed. I have been doing frontend development from the end of 2020 .
+### Я - Магомед, студент, увлечённо изучающий фронтенд-разработку с конца 2020 года. 
 
-### I have mastered a huge number of libraries / technologies during this year. Increased skills in ReactJs.
+### За это время я активно осваивал новые технологии и библиотеки, особенно фокусируясь на развитии навыков работы с ReactJS.
 
-### Development for me isn’t just a job, but first of all it’s a favorite part!
+### Последние месяцы были особенно насыщенными для меня: я углубил свои знания, работая над проектами и обучаясь под руководством опытных менторов. Мой последний достижение - успешное развёртывание приложения на хостинге с использованием реальной базы данных.
 
-### Creative, erudite, with a good sense of humor :)
+### Для меня разработка - это не просто учёба, но и источник вдохновения и творчества!
+### Буду рад видеть вас в числе моих подписчиков и соратников в мире веб-разработки!
 
-### My skills
+### Примеры моих работ(Тотальное обновление на данный момент)
 
-![CodeWars](https://www.codewars.com/users/Grom013/badges/large)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
-![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
-![Redux](https://img.shields.io/badge/-Redux-266132?style=for-the-badge&logo=Redux&logocolor=E9D54D)
-![React-Router](https://img.shields.io/badge/React_Router-266132?style=for-the-badge&logo=react-router)
-![Redux-Thunk](https://img.shields.io/badge/Redux_Thunk-266132?style=for-the-badge&logo=redux-thunk)
-![ReduxLogger](https://img.shields.io/badge/-Redux_Logger-266132?style=for-the-badge&logo=reduxLogger&logocolor=E9D54D)
-![Git](https://img.shields.io/badge/Git-266132?style=for-the-badge&logo=git)
-![MaterialUI](https://img.shields.io/badge/-Material_UI-266132?style=for-the-badge&logo=MaterialUI&logocolor=E9D54D)
-![Firebase](https://img.shields.io/badge/-Firebase-266132?style=for-the-badge&logo=Firebase&logocolor=E9D54D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-266132?style=for-the-badge&logo=Bootstrap&logocolor=E9D54D)
-![json-server](https://img.shields.io/badge/-json_server-266132?style=for-the-badge&logo=jsonServer&logocolor=E9D54D)
-![HTML](https://img.shields.io/badge/HTML-266132?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
-![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
-![Eslint](https://img.shields.io/badge/-eslint-266132?style=for-the-badge&logo=esLint&logocolor=E9D54D)
-![TypeScript](https://camo.githubusercontent.com/58db00572372d3016d45274a096a318c1f0a27d186db0b5903dcaef409c8dca0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3236363133323f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f636f6c6f723d453944353444)
-![Redax Toolkit](https://camo.githubusercontent.com/ff6d1c5813eb1bcd5910358bbf2ca5f842223bf1bcac06d11c1da2d120ac6b56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475785f546f6f6c6b69742d3236363133323f7374796c653d666f722d7468652d6261646765266c6f676f3d72656475782d546f6f6c6b6974)
-
-### Examples of my work
-
-- Application fastCompany [code](https://github.com/Grom013/my-company) | ReactJs / Redux / FireBase
-- Native JavaScript [code](https://github.com/Grom013/JsSimpleCode) |
+- Application fastCompany [code](https://github.com/Grom013/my-company) | ReactJs 
 
 ### Follow me
 
